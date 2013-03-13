@@ -1,0 +1,6 @@
+{
+  "name": "password-complexity",
+  "version": "0.0.1",
+  "description": "Get the complexity of a password",
+  "scripts": [ "index.js" ]
+}
