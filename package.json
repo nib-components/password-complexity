@@ -1,0 +1,10 @@
+{
+  "name": "@nib-components/password-complexity",
+  "version": "0.0.1",
+  "description": "Get the complexity of a password",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/password-complexity.git"
+  }
+}
